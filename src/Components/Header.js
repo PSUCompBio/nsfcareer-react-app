@@ -18,7 +18,7 @@ class Header extends React.Component {
 {/* <!-- header-navigation --> */}
 <div className="container z-index">
     <nav id="navbar-header" className="navbar navbar-expand-lg">
-        <a className="navbar-brand" href="index.html">My React App</a>
+        <a className="navbar-brand" href="index.html">PSUCompBio</a>
         <button className="responsive-nav-btn navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span className="ion-navicon"></span>
         </button>

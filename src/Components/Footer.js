@@ -13,8 +13,8 @@ class Footer extends React.Component {
 			<div className="copyright-area">
 				<div className="row">
 					<div className="col-md-12">
-						<h2>MY REACT APP</h2>
-						<p>&copy; Copyright 2018 - All rights reserved <a href="#">MYREACTAPP.com</a></p>
+						<h2>PSUCompBio</h2>
+						<p>&copy; Copyright 2019 - All rights reserved <a href="#">PSUCompBio.com</a></p>
 						<div className="footer-social">
 							<ul>
 								<li><a href="#"><i className="social-icon ion-social-facebook"></i></a></li>
