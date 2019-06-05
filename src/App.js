@@ -11,7 +11,8 @@ import Footer from './Components/Footer';
 // Main App Class to hold all the UI Components together 
 class App extends Component {
   render() {
-    return (<div>
+    return (
+      <div>
       <Banner />
       <Header />
       <Features />

@@ -18,7 +18,7 @@ class Header extends React.Component {
 {/* <!-- header-navigation --> */}
 <div className="container z-index">
     <nav id="navbar-header" className="navbar navbar-expand-lg">
-        <a className="navbar-brand" href="index.html">My --React App</a>
+        <a className="navbar-brand" href="index.html">My React App</a>
         <button className="responsive-nav-btn navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span className="ion-navicon"></span>
         </button>
@@ -49,11 +49,11 @@ class Header extends React.Component {
 <div className="header-bottom">
     <div className="container">
         <div className="row">
-            <div className="owl-carousel owl-slider">
+            <div style={{display : "block"}} className="owl-carousel owl-slider">
                 <div className="col-md-8 item">
                     <h2>Selfie to 3d Modeling</h2>
                     <p>Transforms, Optimizes, and Intelligently convert your selfie into 3d Models</p>
-                    <a href="www.google.com" className="h-btn">See more</a>
+                    <a href="#" className="h-btn">See more</a>
                 </div>
 
             </div>
